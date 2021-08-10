@@ -1,1 +1,1 @@
-# smart0-brain-api
+# smart-brain-api
